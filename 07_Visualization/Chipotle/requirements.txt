@@ -4,4 +4,3 @@ seaborn
 pandas
 jupyter notebook
 plotly
-pandas_datareader
